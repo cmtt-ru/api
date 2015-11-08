@@ -129,7 +129,7 @@ entryId  | ID записи | 1 – ∞ |
 count    | количество твитов | 1 – 50 | 50
 offset   | отступ от начала | 0 – ∞ | 0
 listId   | категория | 1,2,3 | 1
-interval | период времени | fresh, popular, week, month | popular
+interval | период времени | 3hours, fresh, week, month | fresh
 
 [🚀 Test endpoint](https://api.tjournal.ru/2.1/tweets?listId=1&interval=fresh&count=50)
 
