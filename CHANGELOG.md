@@ -1,5 +1,9 @@
 # ![tj's logo](http://tjournal.ru/static/main/img/logos/logo-github-markdown.png) TJournal API changelog
 
+### 2.2
+- Изменён метод `/club`.
+- Удалены методы, связанные со статьями редакции.
+
 ### 2.1
 - Изменены методы `/club/index`, `/club/item` и `/account/posts`. Также теперь они имеют более логичную структуру данных (например, isLiked может быть -1, 0 и 1, а не false, как раньше).
 - Изменены названия интервалов в методе `/tweets`.
