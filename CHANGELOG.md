@@ -1,6 +1,10 @@
 # ![tj's logo](http://tjournal.ru/static/main/img/logos/logo-github-markdown.png) TJournal API changelog
 
 ### 2.2
+#### Обновление от 27 января 2016
+- Добавлен метод `/search`.
+
+### 2.2
 - Изменён метод `/club`.
 - Удалены методы, связанные со статьями редакции.
 
